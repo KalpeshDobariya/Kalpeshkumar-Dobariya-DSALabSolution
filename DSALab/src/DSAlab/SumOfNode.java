@@ -63,7 +63,7 @@ public static void main(String args[]) {
 	root =SumNode.insert(root,50);
 	root =SumNode.insert(root,70);
 	
-	int sum=135;
+	int sum=130;
 	
 	SumNode.findSumOfTwoNode(root, sum);
 }
